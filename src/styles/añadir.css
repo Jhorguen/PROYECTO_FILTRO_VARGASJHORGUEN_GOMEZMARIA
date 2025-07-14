@@ -16,9 +16,42 @@ header div{
     margin-left: 6%;
 }
 
+.dropdown{
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown_content{
+    display: none;
+    position: absolute;
+    background-color: rgb(228, 228, 228);
+    border: 1px solid;
+    border-color: rgb(255, 144, 33) ;
+    border-radius: .4vw;
+    width: 9rem;
+    height: 3rem;
+    z-index: 1;
+    margin-left: -4rem;
+}
+
+.dropdown_content p{
+    text-align: center;
+    position: relative;
+    bottom: .4vw;
+    text-decoration: none;
+    color: black;
+    font-size: 1vw;
+}
+
+.dropdown:hover .dropdown_content{
+    display: block;
+}
+
 .cuenta_opciones{
     justify-content: right;
-    gap: 10%;
+    gap: 15%;
 }
 
 .Logo{
@@ -75,17 +108,15 @@ textarea{
 .Formula{
     background-image: url(../images/Triangulo.png);
     background-repeat: no-repeat;
-    background-position:left;
+    background-position:right;
     background-size: 20px;
-    rotate: 180deg;
 }
 
 .Area{
     background-image: url(../images/Triangulo.png);
     background-repeat: no-repeat;
-    background-position:left;
+    background-position:right;
     background-size: 20px;
-    rotate: 180deg;
 }
 
 .Fecha{
@@ -117,17 +148,15 @@ textarea{
 .Cumplimiento{
     background-image: url(../images/Triangulo.png);
     background-repeat: no-repeat;
-    background-position:left;
+    background-position:right;
     background-size: 20px;
-    rotate: 180deg;
 }
 
 .Categoria{
     background-image: url(../images/Triangulo.png);
     background-repeat: no-repeat;
-    background-position:left;
+    background-position:right;
     background-size: 20px;
-    rotate: 180deg;
 }
 
 .Subtitulos_izquierda{
