@@ -144,7 +144,7 @@ a:hover {
     }
 }
 
-@media screen and (max-width: 428px) {
+@media screen and (max-width: 432px) {
     .login {
         width: 70vw;
         height: 160vw;
