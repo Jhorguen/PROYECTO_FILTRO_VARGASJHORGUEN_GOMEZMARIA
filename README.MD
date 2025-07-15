@@ -24,3 +24,5 @@ _Equipo de trabajo conformado por:_
 * **Robinson Dominguez** [robinsondominguez](https://github.com/robinsondominguez)
 
 https://jhorguen.github.io/PROYECTO_FILTRO_VARGASJHORGUEN_GOMEZMARIA/pages/delete.html
+
+https://www.figma.com/file/zdNX0hslvtxP2aqZxj0wsg?node-id=0:1&locale=en&fuid=1207105742685687333&type=design
