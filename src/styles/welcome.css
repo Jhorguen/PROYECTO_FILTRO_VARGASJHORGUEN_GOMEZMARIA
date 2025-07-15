@@ -103,7 +103,7 @@ body {
 
 /**Responsive para mobile**/
 
-@media screen and (max-width:428px) {
+@media screen and (max-width:432px) {
     .kario {
         margin-top: -4.5rem;
         padding: 30%;
