@@ -347,7 +347,7 @@ a{
 
 /*Version iphone 10 pro max*/
 
-@media screen and (max-width: 428px) {
+@media screen and (max-width: 432px) {
     body {
         padding: 0;
         margin: 0;
