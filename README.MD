@@ -23,3 +23,4 @@ _Equipo de trabajo conformado por:_
 * **Maria Alejandra Gomez**  [gamaz-19](https://github.com/gamaz-19)
 * **Robinson Dominguez** [robinsondominguez](https://github.com/robinsondominguez)
 
+https://jhorguen.github.io/PROYECTO_FILTRO_VARGASJHORGUEN_GOMEZMARIA/pages/delete.html
