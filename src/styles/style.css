@@ -1,3 +1,8 @@
+@font-face {
+    font-family: MyriadPro-Light;
+    src: url(../fonts/MyriadPro-Light.otf) format("truetype");
+}
+
 .login h1 {
     font-size: 1.7rem;
     margin: 0.5rem 0 0.4rem 0;
@@ -10,14 +15,14 @@
 }
 
 body{
+    font-family: 'MyriadPro-Light', Arial, sans-serif;
     margin: 0;
     background-color: black;
     background-image: url("../images/fondoInicial.png");
-    background-size:cover;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed; 
-
 }
 
 .login{

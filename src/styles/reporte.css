@@ -1,8 +1,14 @@
+@font-face {
+    font-family: MyriadPro-Light;
+    src: url(../fonts/MyriadPro-Light.otf) format("truetype");
+}
+
 body {
     margin: 0;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    font-family: 'MyriadPro-Light', Arial, sans-serif;
 }
 
 header {

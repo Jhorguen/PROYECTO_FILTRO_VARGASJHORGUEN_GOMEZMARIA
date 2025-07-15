@@ -1,7 +1,13 @@
 
+@font-face {
+    font-family: MyriadPro-Light;
+    src: url(../fonts/MyriadPro-Light.otf) format("truetype");
+}
+
 body{
     background-image: url(../images/fondoInicial.png);
     background-color: black;
+    font-family: 'MyriadPro-Light', Arial, sans-serif;
 }
 /** Rectangulo Principal **/
 .Welcome{
